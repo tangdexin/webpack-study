@@ -1,0 +1,22 @@
+{
+  "name": "first-study",
+  "version": "1.0.0",
+  "description": "first webpack study",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangdexin/webpack-study.git"
+  },
+  "author": "tangdexin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangdexin/webpack-study/issues"
+  },
+  "homepage": "https://github.com/tangdexin/webpack-study#readme",
+  "devDependencies": {
+    "webpack": "^3.5.4"
+  }
+}
